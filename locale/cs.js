@@ -67,7 +67,7 @@
         }
     }
 
-    var cs = moment.defineLocale('cs', {
+    var cs = moment.defineLocale('cz', {
         months : months,
         monthsShort : monthsShort,
         monthsParse : (function (months, monthsShort) {
